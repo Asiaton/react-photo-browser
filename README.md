@@ -2,13 +2,13 @@
 
 This is a simple photo browser made using React.
 
-These npm packages were used in creating this app:
-    - create-react-app for creating the app (https://www.npmjs.com/package/create-react-app)
+These npm packages were used in creating this app:<br>
+    - create-react-app for creating the app (https://www.npmjs.com/package/create-react-app)<br>
     - react-router-dom for routing to pages of each single photo (https://www.npmjs.com/package/react-router-dom)
 
 ### How to run app:
 
-Git and Node.js need to be installed and added to PATH.
+Git and npm need to be installed and added to PATH.
 
 1. Clone the repository 
     - With git, type "git clone https://github.com/Asiaton/react-photo-browser.git" on command line
